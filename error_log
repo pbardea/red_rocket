@@ -1,0 +1,320 @@
+[05-Apr-2012 17:31:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 17:32:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 17:32:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 17:33:09] PHP Fatal error:  Cannot redeclare move_uploaded_file() in /home/u182785395/public_html/Project/uploader.php on line 19
+[05-Apr-2012 17:47:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 17:55:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 18:00:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 18:03:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 18:22:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'localhost/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 18:22:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 18:22:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 18:54:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:19:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:23:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:23:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:23:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:23:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:23:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:24:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:24:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:24:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:24:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:25:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:25:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:25:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:25:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:26:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:27:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:27:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:28:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:28:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:28:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:28:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:28:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:30:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:34:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:34:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:34:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:35:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:35:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:35:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:37:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'localhost/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:37:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'localhost/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:37:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'localhost/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:37:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'elijahwong1996@h'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:37:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:37:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:37:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/selectClass.php on line 9
+[05-Apr-2012 19:38:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'elijahwong1996@h'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:38:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql.horizon-host.com/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:39:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql.horizon-host.com/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:39:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql.horizon-host.com/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:39:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql.horizon-host.com/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:39:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql.horizon-host.com/u182785395_project' (1) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 19:40:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'u182785395_elija'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/createStudent.php on line 9
+[05-Apr-2012 20:13:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/u182785395/public_html/Project/viewInfo.php on line 4
+[05-Apr-2012 21:17:09] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/search.php on line 38
+[05-Apr-2012 21:44:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/createStudent.php on line 12
+[05-Apr-2012 21:45:34] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/createStudent.php on line 12
+[05-Apr-2012 21:46:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/createStudent.php on line 12
+[05-Apr-2012 22:02:22] PHP Parse error:  syntax error, unexpected '*' in /home/u182785395/public_html/Project/createStudent.php on line 23
+[05-Apr-2012 22:03:38] PHP Warning:  move_uploaded_file(upload/bss_screen.jpeg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/u182785395/public_html/Project/createStudent.php on line 51
+[05-Apr-2012 22:03:38] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpc1w1aV' to 'upload/bss_screen.jpeg' in /home/u182785395/public_html/Project/createStudent.php on line 51
+[05-Apr-2012 22:58:27] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u182785395/public_html/Project/createStudent.php on line 47
+[05-Apr-2012 22:59:13] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u182785395/public_html/Project/createStudent.php on line 47
+[05-Apr-2012 22:59:45] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u182785395/public_html/Project/createStudent.php on line 47
+[06-Apr-2012 09:09:20] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/search.php on line 2
+[06-Apr-2012 10:36:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/addClass.php on line 44
+[06-Apr-2012 10:36:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/addClass.php on line 44
+[06-Apr-2012 10:36:41] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/u182785395/public_html/Project/addClass.php on line 56
+[06-Apr-2012 10:36:59] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/u182785395/public_html/Project/addClass.php on line 56
+[06-Apr-2012 12:43:07] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/u182785395/public_html/Project/addClass.php on line 57
+[06-Apr-2012 12:43:08] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/u182785395/public_html/Project/addClass.php on line 57
+[06-Apr-2012 13:49:27] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/createClass.php on line 6
+[07-Apr-2012 00:10:19] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/u182785395/public_html/Project/search.php on line 101
+[07-Apr-2012 00:12:37] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 00:12:52] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 00:12:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 00:12:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 00:12:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 00:12:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 00:12:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 00:13:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/search.php on line 79
+[07-Apr-2012 09:33:01] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/profile.php on line 41
+[07-Apr-2012 11:23:14] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/u182785395/public_html/Project/search.php on line 117
+[07-Apr-2012 11:23:26] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/u182785395/public_html/Project/search.php on line 117
+[07-Apr-2012 11:23:28] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:23:48] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:23:49] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:23:50] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:23:51] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:23:53] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:06] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:07] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:08] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:09] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:26] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:28] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:29] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:24:36] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:25:02] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u182785395/public_html/Project/search.php on line 87
+[07-Apr-2012 11:26:57] PHP Parse error:  syntax error, unexpected ';' in /home/u182785395/public_html/Project/profile.php on line 51
+[07-Apr-2012 14:18:21] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/u182785395/public_html/Project/search.php on line 28
+[07-Apr-2012 14:18:21] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/u182785395/public_html/Project/search.php on line 28
+[07-Apr-2012 14:23:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:23:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:24:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:24:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:24:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:24:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:25:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:25:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:25:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:25:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:25:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:25:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:27:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 14:27:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 15:50:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 15:50:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 15:50:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 15:50:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 16:06:49] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/search.php on line 85
+[07-Apr-2012 16:06:50] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/search.php on line 85
+[07-Apr-2012 16:07:01] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/search.php on line 85
+[07-Apr-2012 16:07:02] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 16:07:02] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 16:07:04] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 16:07:35] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/search.php on line 88
+[07-Apr-2012 16:20:09] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/u182785395/public_html/Project/profile.php on line 67
+[07-Apr-2012 16:20:11] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/u182785395/public_html/Project/profile.php on line 67
+[07-Apr-2012 16:20:25] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/profile.php on line 70
+[07-Apr-2012 16:20:55] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/profile.php on line 70
+[07-Apr-2012 16:21:18] PHP Warning:  Invalid argument supplied for foreach() in /home/u182785395/public_html/Project/profile.php on line 60
+[07-Apr-2012 16:21:28] PHP Warning:  Invalid argument supplied for foreach() in /home/u182785395/public_html/Project/profile.php on line 60
+[09-Apr-2012 12:29:13] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/search.php on line 117
+[09-Apr-2012 12:33:27] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/u182785395/public_html/Project/search.php on line 118
+[09-Apr-2012 12:45:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/profile.php on line 78
+[09-Apr-2012 12:45:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/profile.php on line 78
+[09-Apr-2012 15:06:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 39
+[09-Apr-2012 15:06:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 39
+[09-Apr-2012 15:13:35] PHP Warning:  include(mysqlfunphp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/u182785395/public_html/Project/createLate.php on line 2
+[09-Apr-2012 15:13:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'mysqlfunphp' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u182785395/public_html/Project/createLate.php on line 2
+[09-Apr-2012 15:13:35] PHP Fatal error:  Call to undefined function  openconnect() in /home/u182785395/public_html/Project/createLate.php on line 4
+[09-Apr-2012 15:14:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 15:15:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 15:25:02] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 98
+[09-Apr-2012 15:25:51] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 98
+[09-Apr-2012 15:25:51] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 98
+[09-Apr-2012 15:26:07] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 113
+[09-Apr-2012 15:26:22] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:26:27] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:26:30] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:26:31] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:26:31] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:26:35] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 112
+[09-Apr-2012 15:26:36] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 112
+[09-Apr-2012 15:26:36] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 112
+[09-Apr-2012 15:26:43] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 111
+[09-Apr-2012 15:26:44] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 111
+[09-Apr-2012 15:27:52] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 82
+[09-Apr-2012 15:27:52] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:27:53] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:28:04] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:28:05] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:28:05] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:28:06] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:28:13] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:28:14] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:28:29] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 15:28:38] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 84
+[09-Apr-2012 15:28:48] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 82
+[09-Apr-2012 15:28:49] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 15:28:53] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 82
+[09-Apr-2012 15:28:55] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 82
+[09-Apr-2012 15:31:26] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 15:31:28] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 15:34:17] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 15:34:30] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 15:36:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 46
+[09-Apr-2012 15:36:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 46
+[09-Apr-2012 15:36:55] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/classProfile.php on line 49
+[09-Apr-2012 15:36:56] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/classProfile.php on line 49
+[09-Apr-2012 15:37:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 15:37:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 15:37:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 15:37:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 15:58:55] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 15:59:10] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/u182785395/public_html/Project/createLate.php on line 2
+[09-Apr-2012 15:59:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u182785395/public_html/Project/createLate.php on line 2
+[09-Apr-2012 15:59:10] PHP Fatal error:  Call to undefined function  openconnect() in /home/u182785395/public_html/Project/createLate.php on line 4
+[09-Apr-2012 16:00:47] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 16:01:04] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 16:01:12] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 16:02:02] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 16:05:13] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/profile.php on line 106
+[09-Apr-2012 16:06:06] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/u182785395/public_html/Project/addClass.php on line 96
+[09-Apr-2012 16:06:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u182785395/public_html/Project/addClass.php on line 96
+[09-Apr-2012 16:06:06] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:06:34] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:07:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:07:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:07:40] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:16] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:17] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:17] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:18] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:18] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:19] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:19] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:19] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:33] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:34] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:34] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:35] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:35] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:08:43] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:10:33] PHP Fatal error:  Call to undefined function  tru() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:10:33] PHP Fatal error:  Call to undefined function  tru() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:10:34] PHP Fatal error:  Call to undefined function  tru() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:14:51] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:14:52] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:14:52] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:15:55] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:15:56] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:15:56] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:15:57] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:15:58] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:15:58] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:16:06] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:16:15] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:16:15] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:16:16] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:16:22] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:16:23] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 97
+[09-Apr-2012 16:16:23] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:16:24] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:16:40] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:16:44] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addLate.php on line 127
+[09-Apr-2012 16:16:51] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 16:20:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:20:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:22:32] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:22:46] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:22:47] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:22:49] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:22:54] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:22:55] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 98
+[09-Apr-2012 16:22:56] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 98
+[09-Apr-2012 16:23:16] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 98
+[09-Apr-2012 16:23:25] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/classProfile.php on line 88
+[09-Apr-2012 16:23:47] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/classProfile.php on line 88
+[09-Apr-2012 16:23:59] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/classProfile.php on line 88
+[09-Apr-2012 16:24:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:24:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:24:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:24:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:24:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:24:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:25:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:25:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 27
+[09-Apr-2012 16:25:12] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/classProfile.php on line 90
+[09-Apr-2012 16:25:13] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/classProfile.php on line 90
+[09-Apr-2012 16:25:46] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:25:48] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:25:59] PHP Fatal error:  Call to undefined function  footer() in /home/u182785395/public_html/Project/addClass.php on line 99
+[09-Apr-2012 16:27:32] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/classProfile.php on line 90
+[09-Apr-2012 16:27:33] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/classProfile.php on line 90
+[09-Apr-2012 16:27:34] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/classProfile.php on line 90
+[09-Apr-2012 16:28:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/u182785395/public_html/Project/classProfile.php on line 32
+[09-Apr-2012 16:28:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/u182785395/public_html/Project/classProfile.php on line 32
+[09-Apr-2012 16:32:40] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/classProfile.php on line 50
+[09-Apr-2012 16:48:10] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 16:48:39] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 16:48:42] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 16:48:45] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 16:49:03] PHP Parse error:  syntax error, unexpected '<' in /home/u182785395/public_html/Project/createLate.php on line 23
+[09-Apr-2012 17:25:23] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/classProfile.php on line 23
+[09-Apr-2012 17:25:24] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/classProfile.php on line 23
+[09-Apr-2012 17:25:35] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 116
+[09-Apr-2012 17:25:36] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 116
+[09-Apr-2012 17:25:37] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 116
+[09-Apr-2012 17:25:38] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 116
+[09-Apr-2012 17:25:38] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 116
+[09-Apr-2012 17:25:39] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 116
+[09-Apr-2012 17:25:49] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 108
+[09-Apr-2012 17:25:50] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 108
+[09-Apr-2012 17:25:51] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 108
+[10-Apr-2012 07:51:01] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/classProfile.php on line 21
+[10-Apr-2012 07:51:18] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 127
+[10-Apr-2012 07:51:19] PHP Parse error:  syntax error, unexpected $end in /home/u182785395/public_html/Project/classProfile.php on line 127
+[10-Apr-2012 17:44:33] PHP Warning:  mysql_close(): 7 is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/gradeProfile.php on line 126
+[10-Apr-2012 17:47:46] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/u182785395/public_html/Project/gradeProfile.php on line 68
+[10-Apr-2012 17:47:51] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/u182785395/public_html/Project/gradeProfile.php on line 68
+[10-Apr-2012 17:48:13] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/u182785395/public_html/Project/gradeProfile.php on line 68
+[10-Apr-2012 17:59:37] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 17:59:56] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 17:59:57] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 17:59:57] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:13] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:14] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:36] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:45] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:46] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:46] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:46] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:00:46] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/profile.php on line 18
+[10-Apr-2012 18:56:26] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/u182785395/public_html/Project/search.php on line 127
+[11-Apr-2012 19:15:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/u182785395/public_html/Project/test.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u182785395/public_html/Project/editFiles.php on line 1
+[11-Apr-2012 20:37:27] PHP Fatal error:  Call to undefined function  openconnect() in /home/u182785395/public_html/Project/editStudent.php on line 4
+[11-Apr-2012 20:37:55] PHP Fatal error:  Cannot redeclare footer() (previously declared in /home/u182785395/public_html/Project/studfunctions.php:4) in /home/u182785395/public_html/Project/studfunctions.php on line 5
+[11-Apr-2012 20:38:36] PHP Fatal error:  Cannot redeclare footer() (previously declared in /home/u182785395/public_html/Project/studfunctions.php:4) in /home/u182785395/public_html/Project/studfunctions.php on line 5
+[11-Apr-2012 20:56:05] PHP Parse error:  syntax error, unexpected ')' in /home/u182785395/public_html/Project/editStudent.php on line 103
+[11-Apr-2012 21:21:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/editStudent.php on line 50
+[11-Apr-2012 21:23:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/u182785395/public_html/Project/editStudent.php on line 53
+[12-Apr-2012 23:43:03] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/u182785395/public_html/Project/editStudent.php on line 256
+[13-Apr-2012 15:04:13] PHP Parse error:  syntax error, unexpected '}' in /home/u182785395/public_html/Project/PHP.php on line 24
+[13-Apr-2012 15:04:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u182785395/public_html/Project/PHP.php on line 26
