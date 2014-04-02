@@ -43,8 +43,7 @@ $LOGIN_INFORMATION = array(
 // NOTE: all rows except last must have comma "," at the end of line
 $LOGIN_INFORMATION = array(
   'elijah' => 'wong',
-  'paul' => 'bardea',
-  'PaulLikes' => 'Bergers'
+  'paul' => 'bardea', //add users here
 );
 
 // request login? true - show login and password boxes, false - password box only
@@ -91,8 +90,7 @@ function showLoginPasswordProtect($error_msg) {
 ?>
 <html>
 <head>
-  
-  	
+	
 		<title>Red Rocket</title>
 	
 

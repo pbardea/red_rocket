@@ -64,7 +64,7 @@ text {
 
 .bf_button span{  
   display:block; 
-  background: url(http://elijahwong.com/Project/Files/bf_button_fon_left.gif no-repeat;  
+  background: url(http://elijahwong.com/Project/Files/bf_button_fon_left.gif no-repeat; //download this...
   white-space: nowrap; 
   line-height: 56px; 
   padding: 0 0 0 33px; 
